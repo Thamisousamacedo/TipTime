@@ -15,4 +15,5 @@ O que aprendi:
 Esta é a aparência do app final:
 
 
-![Uploading Tela app Tip Time.png…]()
+![Tela app Tip Time](https://github.com/user-attachments/assets/cc7c3d7b-828e-40f6-b471-fadd2960c614)
+
