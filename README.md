@@ -11,10 +11,12 @@ O que aprendi:
 - Como pensar sobre o estado em uma interface.
 - Como o Compose usa o estado para mostrar dados.
 - Como adicionar uma caixa de texto ao app.
+- Como adicionar um botão de ação a um teclado virtual.
+- O que é um elemento combinável Switch e como usá-lo.
+- Adicionar ícones principais aos campos de texto.
 
 Esta é a aparência do app final:
 
 
 
-![image](https://github.com/user-attachments/assets/8832907f-ca76-40ea-ac75-963b15c5649d)
-
+![TipTimePersonalizado](https://github.com/user-attachments/assets/efd57779-c74c-453a-9859-44ce04629101)
